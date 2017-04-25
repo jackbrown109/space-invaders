@@ -1,0 +1,12 @@
+syntax: glob
+bin/
+proj\vs2013\SpaceInvaders.opensdf
+proj\vs2013\SpaceInvaders.sdf
+proj/
+deps\soil\Thumbs.db
+include\MoveableObject.h
+include\Vector2.h
+resources\fonts\Thumbs.db
+resources\images\Thumbs.db
+source\MoveableObject.cpp
+source\Vector2.cpp
